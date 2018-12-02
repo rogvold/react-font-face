@@ -48,12 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ojdx/react-font-face.git"
+    "url": "git+https://github.com/rogvold/react-font-face.git"
   },
-  "author": "ojdx",
-  "dependencies": {
-
-  },
+  "author": "rogvold",
+  "dependencies": {},
   "devDependencies": {
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
